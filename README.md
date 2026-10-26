@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GggSVLB/Banner.png" alt="Web Design & Wordpress Expert Portfolio" border="0">
+<img src="https://i.ibb.co/GggSVLB/Banner.png" alt="Web Designer Developer & Wordpress Expert Portfolio" border="0">
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmithun94&label=Profile%20views&color=0e75b6&style=flat" alt="devmithun94" /> </p>
