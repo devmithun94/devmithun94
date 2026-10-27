@@ -1,4 +1,4 @@
-<a href="https://ibb.co/jv9bTfLF"><img src="https://i.ibb.co/xSKXDLMQ/Mithun-Mallik-s-Neon-Web-Portfolio-Banner.png" alt="Mithun-Mallik-s-Neon-Web-Portfolio-Banner" border="0"></a>
+<a href="https://ibb.co/jv9bTfLF"><img src="https://i.ibb.co/xSKXDLMQ/Mithun-Mallik-s-Neon-Web-Portfolio-Banner.png" alt="Mithun-Mallik-s-Neon-Web-Portfolio-Banner" border="0" width="100%"></a>
 
 
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
