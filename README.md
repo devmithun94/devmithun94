@@ -1,4 +1,10 @@
-<a href="https://ibb.co/tpJrYRFQ"><img src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png" alt="mithun-mallik-github-banner-1920x480" border="0"></a>
+<p align="center">
+  <img
+    src="<a href="https://ibb.co/tpJrYRFQ"><img src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png" alt="mithun-mallik-github-banner-1920x480" border="0"></a>"
+    alt="Mithun Mallik - Web Designer, Web Developer & WordPress Expert"
+    width="100%"
+  />
+</p>
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmithun94&label=Profile%20views&color=0e75b6&style=flat" alt="devmithun94" /> </p>
