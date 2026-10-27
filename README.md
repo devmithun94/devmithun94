@@ -1,11 +1,4 @@
-
-<p align="center">
-  <img
-    src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png"
-    alt="Mithun Mallik - Web Designer, Web Developer & WordPress Expert"
-    width="100%" height="100%"
-  />
-</p>
+<a href="https://ibb.co/jv9bTfLF"><img src="https://i.ibb.co/xSKXDLMQ/Mithun-Mallik-s-Neon-Web-Portfolio-Banner.png" alt="Mithun-Mallik-s-Neon-Web-Portfolio-Banner" border="0"></a>
 
 
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
