@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co/GggSVLB/Banner.png" alt="Web Designer Developer & Wordpress Expert Portfolio" border="0">
-<h3 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
+<a href="https://ibb.co/YFvbrysZ"><img src="https://i.ibb.co/LX4vGJ75/Mithun-Mallik-Git-Hub-Banner.png" alt="Mithun-Mallik-Git-Hub-Banner" border="0"></a>
+<h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmithun94&label=Profile%20views&color=0e75b6&style=flat" alt="devmithun94" /> </p>
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mithun-mallik94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithun-mallik94" height="30" width="40" /></a>
-  <a href="https://twitter.com/mallikmithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallikmithun" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/mallikmithun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallikmithun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devmithun94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmithun94" height="30" width="40" /></a>
+<a href="https://fb.com/devmithun1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devmithun1994" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
