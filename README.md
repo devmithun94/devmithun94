@@ -1,6 +1,5 @@
 <p align="center">
-  <img
-    src="<a href="https://ibb.co/tpJrYRFQ"><img src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png" alt="mithun-mallik-github-banner-1920x480" border="0"></a>"
+ <a src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png" alt="mithun-mallik-github-banner-1920x480" border="0"></a>"
     alt="Mithun Mallik - Web Designer, Web Developer & WordPress Expert"
     width="100%"
   />
