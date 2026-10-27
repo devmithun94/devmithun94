@@ -3,7 +3,7 @@
   <img
     src="https://i.ibb.co/N2yBWRbt/mithun-mallik-github-banner-1920x480.png"
     alt="Mithun Mallik - Web Designer, Web Developer & WordPress Expert"
-    width="100%" height="150%"
+    width="100%" height="100%"
   />
 </p>
 
